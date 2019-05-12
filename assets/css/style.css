@@ -1,0 +1,15 @@
+.headline {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.main {
+    background-image: url("../images/psychicBackground.png");
+}
+
+#maintext {
+    padding: 170px;
+    color: white;
+}
